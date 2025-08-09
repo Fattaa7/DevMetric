@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+*.sqlite
+instance/
+
+# Byte-compiled / cache
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
+
+# Docker
+*.pid
+*.tar
+*.log
+docker-compose.override.yml
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
